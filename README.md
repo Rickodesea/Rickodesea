@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickodesea.
 - 🧘 I'm a Data Analyst, Software Engineer, Innovator, Builder, Philosopher and more.
-- 💼 I'm interested in building a career in Crypto, Blockchain, Staking and AI.
+- 💼 I'm interested in building a career in Crypto, Blockchain, Staking and AI & LLM.
 - 👀 I’m interested in developing software libraries and tools and video games in my spare time under the name Algodal.
 - 🌱 I’m the creator of [Algodal Parser Generator](https://www.algodal.com/Algodal-Parser-Generator/manual/current/) and [VkForge](https://github.com/Rickodesea/VkForge).
 - 💞️ I’m looking to collaborate on open source project.
