@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Rickodesea.
-- 🧘 I'm a Data Analyst, Software Engineer, Innovator, Builder, Philosopher and more.
-- 💼 I'm interested in building a career in Crypto, Blockchain, Staking and AI & LLM.
-- 👀 I’m interested in developing software libraries and tools and video games in my spare time under the name Algodal.
-- 🌱 I’m the creator of [Algodal Parser Generator](https://www.algodal.com/Algodal-Parser-Generator/manual/current/) and [VkForge](https://github.com/Rickodesea/VkForge).
-- 🌍 I'm designing my own programming language [poc-pl](https://gist.github.com/Rickodesea/48b9a7a940424e9959d4740ba6051e0a)
-- 💞️ I’m looking to collaborate on open source project.
-- 📫 How to reach me alrickgrandison@gmail.com
+👋 Hi, I’m **[@Rickodesea](https://github.com/Rickodesea)**
+🧘 I’m a **Data Analyst**, **Software Engineer**, **Innovator**, **Builder**, and **Philosopher**.
+💼 I’m growing my knowledge and expertise in **Web3** and **AI/LLM** technologies.
+👀 I develop **software libraries**, **tools**, and **video games** under my studio **[Algodal](https://github.com/Algodal)**.
+🌱 Creator of **[Algodal Parser Generator](https://www.algodal.com/Algodal-Parser-Generator/manual/current/)** and **[VkForge](https://github.com/Rickodesea/VkForge)** — an open-source Vulkan rendering engine.
+🌍 Designing my own programming language — **[poc-pl](https://gist.github.com/Rickodesea/48b9a7a940424e9959d4740ba6051e0a)**.
+💞️ I’m open to collaborating on open-source projects.
+📫 Reach me at **[alrickgrandison@gmail.com](mailto:alrickgrandison@gmail.com)**
+
+🔗 **Find me elsewhere:**
+
+* 🌐 [Website](https://algodal.com)
+* 🧠 [Kaggle](https://www.kaggle.com/alrickgrandison)
+* 🧰 [Business GitHub (Algodal)](https://github.com/Algodal)
 
 <!---
 Rickodesea/Rickodesea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
