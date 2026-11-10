@@ -2,7 +2,7 @@
 - 🧘 I’m a **Data Analyst**, **Software Engineer**, **Innovator**, **Builder**, and **Philosopher**.
 - 💼 I’m growing my knowledge and expertise in **Data Modelling** and **Programming Language Design** technologies.
 - 👀 I develop **software libraries**, **tools**, and **video games** under the name **[Algodal](https://github.com/Algodal)** as well.
-- 🌱 Creator of **[Algodal Parser Machine]([https://www.algodal.com/Algodal-Parser-Generator/manual/current/](https://algodal.github.io/Algodal_Parser_Machine_Manual/))** and **[VkForge](https://github.com/Rickodesea/VkForge)** — an open-source Vulkan rendering engine.
+- 🌱 Creator of **[Algodal Parser Machine](https://algodal.github.io/Algodal_Parser_Machine_Manual/)** and **[VkForge](https://github.com/Rickodesea/VkForge)** — an open-source Vulkan rendering engine.
 - 🌍 Designing my own programming language — **[poc-pl](https://gist.github.com/Rickodesea/48b9a7a940424e9959d4740ba6051e0a)**.
 - 💞️ I’m open to collaborating on open-source projects.
 - 📫 Reach me at **[alrickgrandison@gmail.com](mailto:alrickgrandison@gmail.com)**
